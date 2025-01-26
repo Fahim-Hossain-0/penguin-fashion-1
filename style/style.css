@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.bebas-neue-font {
+    font-family: "Bebas Neue", serif;
+    /* font-weight: 400; */
+    /* font-style: normal; */
+  }
+  /* // <uniquifier>: Use a unique and descriptive class name */
+  /* // <weight>: Use a value from 100 to 900 */
+  
+  .roboto-font {
+    font-family: "Roboto", serif;
+    /* font-optical-sizing: auto; */
+    /* font-weight: <weight>; */
+    /* font-style: normal; */
+    /* font-variation-settings: */
+      /* "wdth" 100; */
+  }  
